@@ -1,4 +1,4 @@
-### Exploring Optimizer Methods for Stock Prediction with Neural Networks
+### Exploring Optimizer Methods and Solving Stock Prediction with Neural Networks
 This project focuses on researching and comparing various optimizer methods used in training machine learning models for stock price prediction. We will implement and evaluate the performance of different neural network architectures, including Feedforward Neural Networks (FNN), Recurrent Neural Networks (RNN), Multilayer Perceptrons (MLP), and Long Short-Term Memory (LSTM) networks, in conjunction with different optimizer algorithms.
 
 The project aims to:
